@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @xuleixt
+- 👋 Hi, I’m Jeffrey
 - 👀 I’m interested in Open source software、Amateur radio.
 - 🌱 I’m currently learning Python.
